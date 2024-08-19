@@ -1,0 +1,42 @@
+.loginButton{
+    width: 30%;
+    background-color: brown;
+    border: 1px solid;
+    color: white;
+    border-radius: 3px;
+    padding: 3px;
+}
+.loginButton :hover{
+    background-color: blue;
+}
+
+a:link{
+    text-decoration: none;
+    color: red;
+}
+
+table, th {
+    border: 1px solid red;
+   padding: 20px;
+}
+td{
+    text-align: left;  
+}
+th{
+    background-color: aqua;
+    text-align: left;
+}
+
+table, td{
+    border: 1px solid black;
+   
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td:hover{
+    background-color: blue;
+    color: white;
+}
